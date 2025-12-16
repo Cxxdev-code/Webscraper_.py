@@ -46,8 +46,8 @@ Tempo/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/weather-scraper-cli.git
-cd weather-scraper-cli
+git clone https://github.com/Cxxdev-code/Webscraper_.py.git
+cd Webscraper_.py
 ```
 
 2. Crie e ative o ambiente virtual:
